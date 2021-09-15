@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Alduxsan/coins-market.git/static/css/main.c75a92ac.chunk.css",
+    "main.js": "/Alduxsan/coins-market.git/static/js/main.c0a78a1d.chunk.js",
+    "main.js.map": "/Alduxsan/coins-market.git/static/js/main.c0a78a1d.chunk.js.map",
+    "runtime-main.js": "/Alduxsan/coins-market.git/static/js/runtime-main.29c96744.js",
+    "runtime-main.js.map": "/Alduxsan/coins-market.git/static/js/runtime-main.29c96744.js.map",
+    "static/css/2.f2512455.chunk.css": "/Alduxsan/coins-market.git/static/css/2.f2512455.chunk.css",
+    "static/js/2.acd8e76b.chunk.js": "/Alduxsan/coins-market.git/static/js/2.acd8e76b.chunk.js",
+    "static/js/2.acd8e76b.chunk.js.map": "/Alduxsan/coins-market.git/static/js/2.acd8e76b.chunk.js.map",
+    "index.html": "/Alduxsan/coins-market.git/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Alduxsan/coins-market.git/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.c75a92ac.chunk.css.map": "/Alduxsan/coins-market.git/static/css/main.c75a92ac.chunk.css.map",
+    "static/js/2.acd8e76b.chunk.js.LICENSE.txt": "/Alduxsan/coins-market.git/static/js/2.acd8e76b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c96744.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.acd8e76b.chunk.js",
+    "static/css/main.c75a92ac.chunk.css",
+    "static/js/main.c0a78a1d.chunk.js"
+  ]
+}
